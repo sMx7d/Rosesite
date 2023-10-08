@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neon Cyber Assistant</title>
-
-    
+    <title>Rose</title>
     <style>
         body {
             margin: 0;
@@ -19,7 +17,6 @@
             backdrop-filter: blur(10px);
         }
 
-        
         .overlay {
             position: absolute;
             top: 0;
@@ -52,7 +49,7 @@
         }
 
         h1 {
-            font-size: 5em;
+            font-size: 3em;
             margin-bottom: 20px;
             text-transform: uppercase;
             font-family: Aldhabi;
@@ -74,7 +71,7 @@
             border-radius: 10px;
             margin: 30px 0;
             cursor: pointer;
-            transition: box-shadow 0.3s ease;
+            transition: box-shadow 0.3s ease, transform 0.3s ease;
         }
 
         .bot-image:hover {
@@ -107,7 +104,6 @@
         .feature {
             text-align: center;
         }
-        /* ... Your existing styles ... */
 
         .feature i {
             font-size: 2em;
@@ -144,6 +140,33 @@
         .footer p {
             font-size: 1em;
         }
+
+        /* Media Queries for Responsive Design */
+        @media only screen and (max-width: 600px) {
+            h1 {
+                font-size: 2.5em;
+            }
+
+            .bot-image {
+                margin: 15px 0;
+            }
+
+            .features {
+                flex-direction: column;
+            }
+
+            .feature {
+                margin-bottom: 20px;
+            }
+
+            .section h2 {
+                font-size: 2em;
+            }
+
+            .section p {
+                font-size: 1em;
+            }
+        }
     </style>
 </head>
 <body>
@@ -154,28 +177,3 @@
             <img class="bot-image" src="Rose pic.png" alt="Virtual Assistant Image" onclick="window.location.href='https://t.me/RoseAs_bot';">
             <div class="notification">اضغط للتحدث مع روز</div>
         </div>
-
-        
-    <div class="social-icons">
-        <!-- Instagram Icon -->
-        <a href="https://www.instagram.com/your_instagram_username" target="_blank" title="Instagram">
-            <i class="fab fa-instagram"></i>
-        </a>
-
-        <!-- WhatsApp Icon -->
-        <a href="https://wa.me/your_whatsapp_number" target="_blank" title="WhatsApp">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-
-        <!-- Email Icon -->
-        <a href="mailto:your@email.com" target="_blank" title="Email">
-            <i class="far fa-envelope"></i>
-        </a>
-    </div>
-
-
-    <div style="position: relative;">
-        <p style="position: fixed; bottom: 0; width: 90%; text-align: center; opacity: 0.5;"> Salam Alamri<br> smx7dsa@gmail.com
-    </div>
-</body>
-</html>
