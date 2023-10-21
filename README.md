@@ -1,4 +1,6 @@
 # Rose
+Visit the official [Website](https://smx7d.github.io/Rosesite/Rosesite) and use the [Telegram bot](https://t.me/RoseAs_bot) to get to The New World Friend! Rose!
+---
 ### 2023/10/20 (1.0v)    :-
 - [x] Official release
       
