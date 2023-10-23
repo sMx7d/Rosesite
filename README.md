@@ -13,3 +13,14 @@ Visit the official [Website](https://smx7d.github.io/Rosesite/Rosesite) and use 
 - [x] Who's Salam/Rose
 - [x] What's New
 - [x] Fixed "Unknowen track"
+
+      
+---
+### 2023/10/23 (1.2v)    :- 
+- [x] CHATING!
+- [x] better help menu
+- [x] more clear ux
+- [x]  call users by thier name
+- [x]  downloading from youtube now available
+- [x]  translate to en and to ar
+- [x]  better code for later devlobement
