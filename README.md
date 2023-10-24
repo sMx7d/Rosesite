@@ -24,3 +24,9 @@ Visit the official [Website](https://smx7d.github.io/Rosesite/Rosesite) and use 
 - [x]  downloading from youtube now available
 - [x]  translate to en and to ar
 - [x]  better code for later devlobement
+
+ ---
+### 2023/10/24 (1.2.1v)    :- 
+- [x] Fixed double ansewer problem
+- [x] remove calling by user name
+- [x] ask with ! or ? doesn't change the result
