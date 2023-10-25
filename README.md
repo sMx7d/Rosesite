@@ -30,3 +30,8 @@ Visit the official [Website](https://smx7d.github.io/Rosesite/Rosesite) and use 
 - [x] Fixed double ansewer problem
 - [x] remove calling by user name
 - [x] ask with ! or ? doesn't change the result
+
+ ---
+### 2023/10/25 (1.2.2v)    :- 
+- [x] fix youtube
+- [x] how to download and translte
